@@ -25,3 +25,17 @@
 #container a {
   text-decoration: none;
 }
+
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#canvas{
+  height: 250px;
+  width: 400px;
+  background-color: #eee;
+  border: 1px solid black;
+}
